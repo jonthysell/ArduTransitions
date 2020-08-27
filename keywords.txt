@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map For ArduTransitions
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+wipeLeft	KEYWORD2
+wipeRight	KEYWORD2
+wipeUp	KEYWORD2
+wipeDown	KEYWORD2
+wipeUpLeft	KEYWORD2
+wipeUpRight	KEYWORD2
+wipeDownLeft	KEYWORD2
+wipeDownRight	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
