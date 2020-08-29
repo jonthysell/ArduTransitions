@@ -3,3 +3,7 @@
 *.cpp text eol=LF
 *.h text eol=LF
 *.ino text eol=LF
+
+.github/ export-ignore  
+.gitattributes export-ignore  
+.gitignore export-ignore
